@@ -4,4 +4,5 @@
 	ignore = dirty
 [submodule "c-client"]
 	path = modules/c-client
-	url = https://github.com/aerospike/aerospike-client-c.git
+	url = git@github.com:kemparaju/aerospike-client-c.git
+	branch = ppc64le-support
